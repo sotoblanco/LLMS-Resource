@@ -10,6 +10,11 @@ OpenAI cookbook examples to develop stuff using openAI
 [openai/openai-cookbook: Examples and guides for using the OpenAI API (github.com)](https://github.com/openai/openai-cookbook)
 
 Jeremy Howard videos
+
+[Jeremy Howard - YouTube](https://www.youtube.com/@howardjeremyp/videos)
+
+Deeplearning AI short courses
+[Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzIwOTE2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzMTkyNjQ5MDMsNzMwOTk4MTE2XX0=
 -->
