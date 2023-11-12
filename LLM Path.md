@@ -45,7 +45,10 @@ Transformers
 
 skforecast
 [Backtesting forecaster - Skforecast Docs](https://skforecast.org/0.10.1/user_guides/backtesting.html)
+
+Offline AI
+[Offline AI on iOS and Android - YouTube](https://www.youtube.com/watch?v=c8YM15v9w8M)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDY3NDMzMiwtMTUzMjM3NjQwOCw3Mz
+eyJoaXN0b3J5IjpbMTA5MTgyNzEyMSwtMTUzMjM3NjQwOCw3Mz
 A5OTgxMTZdfQ==
 -->
