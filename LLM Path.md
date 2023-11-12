@@ -25,7 +25,7 @@ Machine learning new horizons
 Git & GitHub
 [Introduction - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/intro-to-git/0-introduction)
 
-The 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzE2MzI4OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzIzNzY0MDgsNzMwOTk4MTE2XX0=
 -->
