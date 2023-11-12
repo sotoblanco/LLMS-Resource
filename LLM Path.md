@@ -15,6 +15,9 @@ Jeremy Howard videos
 
 Deeplearning AI short courses
 [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+
+Podcast to watch
+[( World Number 1 On Kaggle with Christof Henkel #36 - YouTube](https://www.youtube.com/watch?v=RF4LwRl0npQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkyNjQ5MDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzY2NzY5NTkzLDczMDk5ODExNl19
 -->
