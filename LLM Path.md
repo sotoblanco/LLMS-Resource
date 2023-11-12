@@ -36,7 +36,10 @@ Soccer datacamp
 
 Sequencing
 [Sequence Models - Home - Week 1 | Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/week/1)
+
+Deeplearning tensorflow
+[Deep Learning in TensorFlow – Dataquest](https://www.dataquest.io/path/deep-learning-in-tensorflow-skill/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODIzMzE1OCwtMTUzMjM3NjQwOCw3Mz
+eyJoaXN0b3J5IjpbLTc2MjkzNzc3NCwtMTUzMjM3NjQwOCw3Mz
 A5OTgxMTZdfQ==
 -->
