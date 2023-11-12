@@ -39,7 +39,13 @@ Sequencing
 
 Deeplearning tensorflow
 [Deep Learning in TensorFlow – Dataquest](https://www.dataquest.io/path/deep-learning-in-tensorflow-skill/)
+
+Transformers
+[O’Reilly Book Club: Lewis Tunstall and Leandro von Werra on Natural Language Processing with Transformers (oreilly.com)](https://learning.oreilly.com/live-events/oreilly-book-club-lewis-tunstall-and-leandro-von-werra-on-natural-language-processing-with-transformers/0636920096236/)
+
+skforecast
+[Backtesting forecaster - Skforecast Docs](https://skforecast.org/0.10.1/user_guides/backtesting.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjkzNzc3NCwtMTUzMjM3NjQwOCw3Mz
+eyJoaXN0b3J5IjpbMTA4MDY3NDMzMiwtMTUzMjM3NjQwOCw3Mz
 A5OTgxMTZdfQ==
 -->
