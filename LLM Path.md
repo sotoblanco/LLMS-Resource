@@ -25,7 +25,18 @@ Machine learning new horizons
 Git & GitHub
 [Introduction - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/intro-to-git/0-introduction)
 
+Neetcode courses
+[Courses (neetcode.io)](https://neetcode.io/courses)
 
+Machine learning career track
+[Become a Machine Learning Scientist with Python - DataCamp - DataCamp Learn](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)
+
+Soccer datacamp
+[DataCamp Workspace](https://app.datacamp.com/workspace/sample-datasets/dataset-python-soccer)
+
+Sequencing
+[Sequence Models - Home - Week 1 | Coursera](https://www.coursera.org/learn/nlp-sequence-models/home/week/1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIzNzY0MDgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTgxODIzMzE1OCwtMTUzMjM3NjQwOCw3Mz
+A5OTgxMTZdfQ==
 -->
